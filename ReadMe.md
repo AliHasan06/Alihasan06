@@ -11,8 +11,6 @@
 <p align="left">
 	<a href="https://www.linkedin.com/in/ali-hasan001/" target="blank"><img align="center"
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-	<a href="https://x.com/Alihassan_xx?t=Amycd5NK-BkCQqjmQRZ-VA&s=09" target="blank" style="padding:8px"><img align="center" style="margin:8px"
-			src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
 	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
 		alt="Alihasan06" align="right" />
 </p>
