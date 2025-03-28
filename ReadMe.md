@@ -1,4 +1,5 @@
 <img alt="Coding" style="border-radius:16px;" src="./images/background.png">
+
 ## 👋 Hey there, I'm Ali Hasan!
 
 I’m an **18-year-old aspiring Data Engineer** with experience in **SQL, Python, AWS, and backend development**. My primary focus is on **Data Engineering, Cloud Computing, and Backend Development**, aiming to build scalable and efficient data solutions. 
@@ -18,13 +19,6 @@ I’m an **18-year-old aspiring Data Engineer** with experience in **SQL, Python
 - **SQL Mastery:** Optimizing queries, indexing, and working with **large datasets**
 - **AWS Certification:** Preparing for **AWS Cloud Practitioner (CLF-C02)**
 - **Freelancing & Internships:** Seeking **remote or onsite** opportunities in Data Engineering
-
-## 🎯 Goals for 2025:
-
-- **Master Data Engineering concepts** in the next **2 months**
-- **Secure a Data Engineering internship** (onsite/remote) by **May-June**
-- **Freelance & Earn Online** by offering **SQL automation, data pipelines, and web scraping services**
-- **Achieve $5,000–$7,000 by early 2026** to fund a world tour 🌍
 
 ## 📊 GitHub Stats:
 
